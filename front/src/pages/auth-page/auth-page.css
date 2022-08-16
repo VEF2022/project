@@ -1,0 +1,9 @@
+.auth-page {
+  height: 100vh;
+  background: no-repeat url(C:\startupp\src\form.png);
+  background-size: cover;
+  /* display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; */
+}
